@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  font-feature-settings: 'rlig' 1, 'calt' 1;
+}
+
+blockquote {
+  @apply rounded-md;
+  border-left: 4px solid #222;
+  background: #111;
+  padding: 1rem;
+}
