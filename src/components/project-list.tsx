@@ -25,7 +25,7 @@ const projects: ProjectCardProps[] = [
     title: 'cheatin.gg',
     href: 'https://cheatin.gg',
     description:
-      'The ultimate marketplace for top-tier utility software. Coming soon!'
+      'The #1 marketplace built for top-tier game cheating software. Coming soon!'
   }
 ];
 

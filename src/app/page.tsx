@@ -72,7 +72,7 @@ export default function HomePage() {
           href="https://github.com/senoe/senoe.dev"
           target="_blank"
         >
-          <span>Click here to view it.</span>
+          <span>Source code</span>
           <ExternalLinkIcon className="h-4 w-4" />
         </CLink>
       </blockquote>
