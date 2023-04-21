@@ -33,6 +33,7 @@ export default function Header() {
               )}
               target={link.href.startsWith('http') ? '_blank' : '_self'}
               href={link.href}
+              key={link.href}
             >
               {link.label}
             </Link>

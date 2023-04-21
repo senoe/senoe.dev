@@ -1,4 +1,6 @@
-import ProjectCard, { ProjectCardProps } from '@senoe/components/project-card';
+import ProjectCard, {
+  type ProjectCardProps
+} from '@senoe/components/project-card';
 
 const projects: ProjectCardProps[] = [
   {

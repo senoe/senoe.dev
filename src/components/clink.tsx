@@ -1,6 +1,6 @@
 import { cn } from '@senoe/lib/utils';
 import Link, { type LinkProps } from 'next/link';
-import { AnchorHTMLAttributes, type PropsWithChildren } from 'react';
+import { type AnchorHTMLAttributes, type PropsWithChildren } from 'react';
 
 interface CLinkProps
   extends LinkProps,
