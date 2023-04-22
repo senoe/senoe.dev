@@ -22,9 +22,9 @@ export default function HomePage() {
             creating web and desktop applications.
           </p>
           <p>
-            Welcome to my personal corner of the internet, where I share my
-            experiences as a young developer balancing coding and the challenges
-            of high school life.
+            Welcome to my personal corner of the internet, where I share
+            information on projects and experiences as a young developer
+            balancing coding and school life.
           </p>
           <p>
             As of recently I've been experimenting with different JS
