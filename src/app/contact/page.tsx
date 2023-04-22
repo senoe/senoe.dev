@@ -2,7 +2,7 @@ import CLink from '@senoe/components/clink';
 import { MailIcon, UserPlusIcon } from 'lucide-react';
 
 export const metadata = {
-  title: 'contact • senoe.dev'
+  title: 'Contact • senoe.dev'
 };
 
 export default function ContactPage() {
