@@ -64,7 +64,7 @@ export default function HomePage() {
         </p>
         <ProjectList />
       </div>
-      <blockquote>
+      <blockquote className="!mb-5">
         <span className="font-semibold">Fun fact: </span>
         This site is open-source!{' '}
         <CLink

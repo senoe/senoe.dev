@@ -17,8 +17,8 @@ export default function ContactPage() {
             I'm always open to new opportunities and collaborations. Feel free
             to reach out to me via email or social media!
           </p>
-          <blockquote>
-            <div className="flex justify-between">
+          <blockquote className="space-y-3 sm:space-y-0">
+            <div className="leading-5 sm:flex sm:justify-between sm:leading-normal">
               <div className="inline-flex items-center space-x-1">
                 <MailIcon className="h-4 w-4" />
                 <span>Shoot me an email!</span>
@@ -27,7 +27,7 @@ export default function ContactPage() {
                 me@senoe.dev
               </CLink>
             </div>
-            <div className="flex justify-between">
+            <div className="leading-5 sm:flex sm:justify-between sm:leading-normal">
               <div className="inline-flex items-center space-x-1">
                 <UserPlusIcon className="h-4 w-4" />
                 <span>Add me on Discord!</span>
