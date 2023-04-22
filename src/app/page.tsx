@@ -23,11 +23,11 @@ export default function HomePage() {
           </p>
           <p>
             This is my personal corner of the internet, where I share
-            information on my projects and experiences as a young developer
+            information about my projects and experiences as a young developer
             balancing coding and school life.
           </p>
           <p>
-            As of recently I've been experimenting with different JS
+            Over the last few months, I've been experimenting with different JS
             technologies such as{' '}
             <CLink
               className="relative top-0.5 inline-flex items-center space-x-1"
@@ -52,7 +52,7 @@ export default function HomePage() {
             >
               <TRPCIcon /> <span>tRPC</span>
             </CLink>
-            . I also hope to explore languages like Rust and C++ in the near
+            . I also plan to explore languages like Rust and C++ in the near
             future!
           </p>
         </div>
