@@ -6,7 +6,7 @@ import ProjectList from '@senoe/components/project-list';
 import { ExternalLinkIcon } from 'lucide-react';
 
 export const metadata = {
-  title: 'home • senoe.dev'
+  title: 'Home • senoe.dev'
 };
 
 export default function HomePage() {
