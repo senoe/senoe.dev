@@ -18,16 +18,11 @@ export default function HomePage() {
         </h2>
         <div className="space-y-4 text-slate-300">
           <p>
-            I'm an ambitious 18-year-old self-taught developer with a knack for
-            creating web and desktop applications.
+            I'm an 18-year-old self-taught developer with a knack for creating
+            web and desktop applications and AI projects!
           </p>
           <p>
-            This is my personal corner of the internet, where I share
-            information about my projects and experiences as a young developer
-            balancing coding and school life.
-          </p>
-          <p>
-            Over the last few months, I've been experimenting with different JS
+            Over the past few months, I've been experimenting with different JS
             technologies such as{' '}
             <CLink
               className="relative top-0.5 inline-flex items-center space-x-1"
@@ -52,8 +47,8 @@ export default function HomePage() {
             >
               <TRPCIcon /> <span>tRPC</span>
             </CLink>
-            . I also plan to explore languages like Rust and C++ in the near
-            future!
+            . I plan to explore languages like Go, Rust, and C++ in the very
+            near future!
           </p>
         </div>
       </div>

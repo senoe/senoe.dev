@@ -7,25 +7,25 @@ const projects: ProjectCardProps[] = [
     title: 'LookupTools',
     href: 'https://lookup.tools',
     description:
-      'Lookup WHOIS records, emails, IP addresses, and much more. Releasing soon!'
+      'Look up domain WHOIS records, email addresses, IP addresses, and much more.'
   },
   {
     title: 'Mailero',
     href: 'https://mailero.io',
     description:
-      'User-friendly temp mail using email addresses from popular providers.'
+      'User-friendly temp mail using email addresses from popular providers like Gmail and Outlook.'
   },
   {
-    title: 'SendDrop',
-    href: 'https://senddrop.app',
+    title: 'Sellbay',
+    href: 'https://sellbay.io',
     description:
-      'D2D file transfer — development currently paused, but is planned to resume in the future.'
+      'The ultimate platform for entrepreneurs to sell their digital products with ease. Waitlist now!'
   },
   {
     title: 'cheatin.gg',
     href: 'https://cheatin.gg',
     description:
-      'The #1 marketplace built for top-tier game cheating software. Coming soon!'
+      'The #1 marketplace built for top-tier game cheating software. Coming very soon!'
   }
 ];
 
