@@ -4,12 +4,6 @@ import ProjectCard, {
 
 const projects: ProjectCardProps[] = [
   {
-    title: 'LookupTools',
-    href: 'https://lookup.tools',
-    description:
-      'Look up domain WHOIS records, email addresses, IP addresses, and much more.'
-  },
-  {
     title: 'Mailero',
     href: 'https://mailero.io',
     description:
@@ -19,7 +13,13 @@ const projects: ProjectCardProps[] = [
     title: 'Sellbay',
     href: 'https://sellbay.io',
     description:
-      'The ultimate platform for entrepreneurs to sell their digital products with ease. Waitlist now!'
+      'A platform for entrepreneurs to sell digital products with ease. Waitlist now!'
+  },
+  {
+    title: 'joke.dad',
+    href: 'https://joke.dad',
+    description:
+      'Open source — a simple website with a collection of dad jokes you can vote on!'
   },
   {
     title: 'cheatin.gg',

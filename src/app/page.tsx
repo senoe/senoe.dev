@@ -1,6 +1,6 @@
 import CLink from '@senoe/components/clink';
 import NextjsIcon from '@senoe/components/icons/nextjs-icon';
-import ReactIcon from '@senoe/components/icons/react-icon';
+import TauriIcon from '@senoe/components/icons/tauri-icon';
 import TRPCIcon from '@senoe/components/icons/trpc-icon';
 import ProjectList from '@senoe/components/project-list';
 import { ExternalLinkIcon } from 'lucide-react';
@@ -26,18 +26,18 @@ export default function HomePage() {
             technologies such as{' '}
             <CLink
               className="relative top-0.5 inline-flex items-center space-x-1"
-              href="https://react.dev"
-              target="_blank"
-            >
-              <ReactIcon /> <span>React</span>
-            </CLink>
-            ,{' '}
-            <CLink
-              className="relative top-0.5 inline-flex items-center space-x-1"
               href="https://nextjs.org"
               target="_blank"
             >
               <NextjsIcon /> <span>Next.js</span>
+            </CLink>
+            ,{' '}
+            <CLink
+              className="relative top-0.5 inline-flex items-center space-x-1"
+              href="https://tauri.app"
+              target="_blank"
+            >
+              <TauriIcon /> <span>Tauri</span>
             </CLink>
             , and{' '}
             <CLink
@@ -47,8 +47,8 @@ export default function HomePage() {
             >
               <TRPCIcon /> <span>tRPC</span>
             </CLink>
-            . I plan to explore languages like Go, Rust, and C++ in the very
-            near future!
+            . I'm currently learning Rust and plan to explore other languages
+            like Go and C++ in the very near future!
           </p>
         </div>
       </div>

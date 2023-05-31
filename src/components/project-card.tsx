@@ -14,7 +14,7 @@ export default function ProjectCard({
 }: ProjectCardProps) {
   return (
     <Link href={href} target="_blank">
-      <div className="h-36 rounded-md bg-zinc-950 p-6 ring-1 ring-[#222] transition-colors hover:bg-[#111]">
+      <div className="rounded-md bg-zinc-950 p-6 ring-1 ring-[#222] transition-colors hover:bg-[#111]">
         <div className="flex justify-between">
           <h4 className="font-semibold">{title}</h4>
           <div className="inline-flex items-center space-x-1 text-sm text-sky-500">
