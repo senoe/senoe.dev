@@ -33,10 +33,10 @@ export default function ContactPage() {
                 <span>Add me on Discord!</span>
               </div>
               <CLink
-                href="https://discord.com/users/997767154483089408"
+                href="https://discord.com/users/222395271605256192"
                 target="_blank"
               >
-                senoe#0001
+                @1senoe
               </CLink>
             </div>
           </blockquote>
